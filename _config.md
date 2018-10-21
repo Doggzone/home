@@ -1,5 +1,5 @@
 # basic options
-title: 도경구 Doh Kyung-Goo
+title: 도경구
 author: Doh Kyung-Goo
 email: doh@ehanyang.ac.kr
 description: My Home Page
