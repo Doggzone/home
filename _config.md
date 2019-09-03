@@ -1,10 +1,10 @@
 # basic options
-title: 도경구
-author: Doh Kyung-Goo
+title: Doh Kyung-Goo
+author: 도경구
 email: doh@ehanyang.ac.kr
-description: My Home Page
-twitter_username: 
-github_username: DohKyungGoo
+description: Doh Kyung-Goo's Home Page
+twitter_username:
+github_username: Doggzone
 
 # Build settings
 markdown: kramdown
