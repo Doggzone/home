@@ -5,12 +5,12 @@
 - Professor, Division of Computer Science, College of Computing, Hanyang University ERICA
 - Head, Programming Languages Laboratory (a.k.a. PLASSE Research Laboratory), Hanyang University ERICA
 - CEO, Softopia, Inc.
-- ERICA 2.0 자문위원회 위원
-- 한국저작권위원회 감정전문위원
+- ERICA 2.0 자문위원
+- 한국저작권위원회 소프트웨어 감정전문위원
 
 ### Hot!
 - [강의] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2019년 2학기
-- [SW중심대학 산학R&D프로젝트, 지티원] 기계학습을 이용한 전천후 문법무지 파싱 기법 연구, 2019.1.1-12.31, 50,000,000원\
+- [SW중심대학 산학R&D프로젝트, 지티원] 기계학습을 이용한 전천후 문법무지 파싱 기법 연구, 2019.1.1-12.31, 50,000,000원
 
 ### The World of Software
 - [Scala](https://www.scala-lang.org/), [Haskell](https://www.haskell.org/platform/)
