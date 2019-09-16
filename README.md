@@ -20,9 +20,9 @@
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [ChucK](https://chuck.cs.princeton.edu/)
 - [TOPLAP](https://toplap.org/), [Algorave](https://algorave.com/), [EulerRoom](http://www.eulerroom.com/)
+- [oncoder](https://www.oncoder.com/), [백준](https://www.acmicpc.net/), [codeground](https://www.codeground.org/)
 
 ### Potpourri
-- [Harmony of the Spheres](http://harmoniedesspheres.com/eng/Welcome.html)
 - [My Favorite Music Live](https://doggzone.github.io/musiclive/)
 - [Geopolitics](https://zeihan.com/)
 
