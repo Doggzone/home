@@ -30,4 +30,4 @@
 - Office: 제4공학관 #320 (phone: +82-31-400-5667, fax: +82-031-400-3850)
 - Email: doh at {hanyang.ac.kr, ehanyang.ac.kr}
 - Address(Kor): 경기도 안산시 상록구 한양대학로 55 소프트웨어융합대학 (우편번호: 15588)
-- Address(Eng): College of Computing, 55 Hanyangdaehak-ro, Sangnok, Ansan, 15588, Gyeonggi, Republic of Korea
+- Address(Eng): College of Computing, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, 15588, Gyeonggi-do, Republic of Korea
