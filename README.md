@@ -16,11 +16,11 @@
 - [Scala](https://www.scala-lang.org/), [Haskell](https://www.haskell.org/platform/)
 - [POPL](https://conf.researchr.org/series/POPL), [PLDI](https://www.sigplan.org/Conferences/PLDI/), [ICSE](http://www.icse-conferences.org/), ...
 - [Lambda.World](http://www.lambda.world/), [GOTO Conferences](https://blog.gotocon.com/)
+- [oncoder](https://www.oncoder.com/), [백준](https://www.acmicpc.net/), [codeground](https://www.codeground.org/)
 - [김익환의 "소프트웨어 지혜"](http://www.ikwisdom.com/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [ChucK](https://chuck.cs.princeton.edu/)
+- [ChucK](https://chuck.cs.princeton.edu/), [JythonMusic](https://jythonmusic.me/)
 - [TOPLAP](https://toplap.org/), [Algorave](https://algorave.com/), [EulerRoom](http://www.eulerroom.com/)
-- [oncoder](https://www.oncoder.com/), [백준](https://www.acmicpc.net/), [codeground](https://www.codeground.org/)
 
 ### Potpourri
 - [My Favorite Music Live](https://doggzone.github.io/musiclive/)
