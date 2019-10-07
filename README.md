@@ -24,6 +24,7 @@
 - [TOPLAP](https://toplap.org/), [Algorave](https://algorave.com/), [EulerRoom](http://www.eulerroom.com/)
 
 ### Potpourri
+- [The Beatles Bible](https://www.beatlesbible.com/)
 - [My Favorite Music Live](https://doggzone.github.io/musiclive/)
 - [Geopolitics](https://zeihan.com/)
 
