@@ -25,7 +25,7 @@
 
 ### Potpourri
 - [My Discogs](https://www.discogs.com/ko/user/dosori/collection)
-- [Acoustic Sounds](https://store.acousticsounds.com/), [musicdirect](https://www.musicdirect.com/), [MoFi](https://www.mofi.com/)
+- [Jazz Discography Project](https://www.jazzdisco.org/
 - [My Favorite Music Live](https://doggzone.github.io/musiclive/)
 - [The Beatles Bible](https://www.beatlesbible.com/)
 - [Geopolitics](https://zeihan.com/)
