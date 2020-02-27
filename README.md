@@ -19,7 +19,7 @@
 - [oncoder](https://www.oncoder.com/), [백준](https://www.acmicpc.net/), [codeground](https://www.codeground.org/)
 - [김익환의 "소프트웨어 지혜"](http://www.ikwisdom.com/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35), [Software 2.0 – A Paradigm Shift](https://www.robosoftin.com/blog/author/h-n-ramkumar), [Opinion: AI is dead, long live Software!](https://www.syrianspock.com/software/opinion/2018/06/10/opinion-ai-is-dead-long-live-software/)
+- [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35), [Software 2.0 – A Paradigm Shift](https://www.robosoftin.com/blog/author/h-n-ramkumar)
 - [ChucK](https://chuck.cs.princeton.edu/), [JythonMusic](https://jythonmusic.me/)
 - [TOPLAP](https://toplap.org/), [Algorave](https://algorave.com/), [EulerRoom](http://www.eulerroom.com/)
 
