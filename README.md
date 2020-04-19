@@ -10,7 +10,7 @@
 
 ### Hot!
 - [강의] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2019년 2학기
-- [SW중심대학 산학R&D프로젝트, 지티원] 기계학습을 이용한 전천후 문법무지 파싱 기법 연구, 2019.1.1-12.31, 50,000,000원
+- [SW중심대학 산학R&D프로젝트, 지티원] 머신러닝으로 소스코드 보안취약점 탐지, 2020.1.1-12.31, 40,000,000원
 
 ### The World of Software
 - [Scala](https://www.scala-lang.org/), [Haskell](https://www.haskell.org/platform/)
