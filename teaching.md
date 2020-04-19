@@ -7,7 +7,7 @@ title: Teaching
 
 #### Video
 - [소프트웨어 혁명 : 역사와 전망](https://youtu.be/PrEs7Fbwflk) (2015)
-- [강의] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2019년 2학기
+
 #### Undergraduate
 - CSE2020 음악프로그래밍 : [2019](https://doggzone.github.io/cse2020/), 2020
 - ESS1017 Computational Civilization and Artificial Intelligence, HESS : [2019](https://doggzone.github.io/CCAI/)
