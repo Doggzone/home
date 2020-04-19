@@ -7,16 +7,16 @@ title: Teaching
 
 #### Video
 - [소프트웨어 혁명 : 역사와 전망](https://youtu.be/PrEs7Fbwflk) (2015)
-
+- [강의] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2019년 2학기
 #### Undergraduate
-- CSE2020 음악프로그래밍 : 2019
+- CSE2020 음악프로그래밍 : [2019](https://doggzone.github.io/cse2020/), 2020
 - ESS1017 Computational Civilization and Artificial Intelligence, HESS : [2019](https://doggzone.github.io/CCAI/)
-- CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, [2019](https://doggzone.github.io/cse1017/)
+- CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, [2019](https://doggzone.github.io/cse1017/), 2021
 - ENE414 프로그래밍언어론 : 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2011, 2012, 2015, 2016, 2018
 - CUL0118 컴퓨팅사고와문제해결 : 2017
 - CSE2018 시스템프로그래밍기초 : 2016
 - CUL7070 프로그래밍개론 : 2015, 2016 (Online)
-- CSE2016 프로그램설계방법론 : 2014
+- CSE2016 프로그램설계방법론 : 2014, 2020
 - CSE215 프로그램설계기초 : 2008, 2009
 - CSE107 논리학 : 2006, 2007, 2008, 2009, 2010, 2011
 - ECC203 고급프로그래밍(ML) : 2004, 2006, 2007
