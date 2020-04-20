@@ -38,7 +38,7 @@ Programming Languages Laboratory
 #### Ph.D.
 [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=81015)
 
-1. 이효섭 Lee Hyosub (2013) : Hanyang University, Dissertation: Automatic Detection of Code Clones based on Tree Patterns
+1. 이효섭 Lee Hyosub (2013) : Korea Polytechnics, Dissertation: Automatic Detection of Code Clones based on Tree Patterns
 2. 김현하 Kim Hyunha (2013) : Softopia, Dissertation: Static Validation of Web Pages based on Abstract Parsing
 3. 최태형 Choi Tae-Hyoung (2017) : GTOne, Dissertation: Generation a Path-discriminated String Analysis
 
