@@ -14,6 +14,7 @@
 - [강의(대학원)] 프로세스마이닝, 2020년 2학기
 - [강의(학부)] CSE2020 음악프로그래밍, 2020년 2학기
 - [강의(학부)] CSE2016 프로그램설계방법론, 2020년 2학기
+- [강의(학부-신산업소프트웨어전공)] COM1002 프로그래밍1, 2020년 2학기
 - [SW중심대학 산학R&D프로젝트, 지티원] 머신러닝으로 소스코드 보안취약점 탐지, 2020.1.1-12.31, 40,000,000원
 
 ### The World of Software
@@ -30,7 +31,6 @@
 ### Potpourri
 - [My Discogs](https://www.discogs.com/ko/user/dosori/collection)
 - [Jazz Discography Project](https://www.jazzdisco.org/)
-- [My Favorite Music Live](https://doggzone.github.io/musiclive/)
 - [The Beatles Bible](https://www.beatlesbible.com/)
 - [Geopolitics](https://zeihan.com/)
 
