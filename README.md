@@ -5,12 +5,10 @@
 - Professor, Division of Computer Science, College of Computing, Hanyang University ERICA
 - Head, Programming Languages Laboratory (a.k.a. PLASSE Research Laboratory), Hanyang University ERICA
 - CEO, Softopia, Inc.
-- ERICA 2.0 자문위원
 - 한국저작권위원회 소프트웨어 감정전문위원
 - 파이터치연구원 비상임이사
 
 ### Hot!
-- Sabbatical Semester till August!!!
 - [강의(대학원)] CSE9107 프로세스마이닝, 2020년 2학기
 - [강의(학부)] CSE2020 음악프로그래밍, 2020년 2학기
 - [강의(학부)] CSE2016 프로그램설계방법론, 2020년 2학기
