@@ -9,14 +9,15 @@ title: Teaching
 - [소프트웨어 혁명 : 역사와 전망](https://youtu.be/PrEs7Fbwflk) (2015)
 
 #### Undergraduate
-- CSE2020 음악프로그래밍 : [2019](https://doggzone.github.io/cse2020/), 2020
-- ESS1017 Computational Civilization and Artificial Intelligence, HESS : [2019](https://doggzone.github.io/CCAI/)
+- CSE2020 음악프로그래밍 : 2019, 2020
+- CSE2016 프로그램설계방법론 : 2014, 2020
+- (신산업소프트웨어전공) COM1002 프로그래밍1 : 2020
+- (HESS) ESS1017 Computational Civilization and Artificial Intelligence : [2019](https://doggzone.github.io/CCAI/)
 - CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, [2019](https://doggzone.github.io/cse1017/), 2021
 - ENE414 프로그래밍언어론 : 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2011, 2012, 2015, 2016, 2018
 - CUL0118 컴퓨팅사고와문제해결 : 2017
 - CSE2018 시스템프로그래밍기초 : 2016
 - CUL7070 프로그래밍개론 : 2015, 2016 (Online)
-- CSE2016 프로그램설계방법론 : 2014, 2020
 - CSE215 프로그램설계기초 : 2008, 2009
 - CSE107 논리학 : 2006, 2007, 2008, 2009, 2010, 2011
 - ECC203 고급프로그래밍(ML) : 2004, 2006, 2007
@@ -31,6 +32,7 @@ title: Teaching
 - 수치계산 : 1995
 
 #### Graduate
+- CSE9107 프로세스마이닝 (Process Mining) : 2020
 - CSE6035 Principles of Reactive Programming : 2014
 - CSE8045 Principles of Programming Languages : 2007, 2009, 2011, 2014
 - CSE879 소프트웨어보안특강 (Special Topics in Software Security) : 2010
@@ -55,7 +57,7 @@ title: Teaching
 ### Book
 
 #### 저서
-- [출판예정] 도경구, "프로그래밍 기초", 생능출판사, 2019
+- [출판예정] 도경구, "Python으로 배우는 프로그래밍 원리", 생능출판사, 2020
 - 도경구, "컴퓨터입문: 제6장 - 컴퓨터언어와 프로그래밍", 한양대학교 전산교재 편찬위원회, 한양대학교 출판원, 1996
 
 #### 역서
