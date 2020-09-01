@@ -5,9 +5,6 @@ title: Teaching
 
 ### Lecture
 
-#### Video
-- [소프트웨어 혁명 : 역사와 전망](https://youtu.be/PrEs7Fbwflk) (2015)
-
 #### Undergraduate
 - CSE2020 음악프로그래밍 : 2019, [2020](https://doggzone.github.io/cse2020/)
 - CSE2016 프로그램설계방법론 : 2014, 2020
@@ -48,6 +45,9 @@ title: Teaching
 - CSE8?? 고급알고리즘해석 : 1996, 1997
 - CSE845 프로그래밍언어론 (Programming Language Concepts & Paradigms) : 1996
 
+#### Video Lecture
+- [소프트웨어 혁명 : 역사와 전망](https://youtu.be/PrEs7Fbwflk) (2015)
+
 #### 산업경영대학원
 - 2001 : 프로그래밍언어론
 - 1999 : 프로그래밍언어론
@@ -57,7 +57,7 @@ title: Teaching
 ### Book
 
 #### 저서
-- [출판예정] 도경구, "Python으로 배우는 프로그래밍 원리", 생능출판사, 2020
+- [출판예정] 도경구, "코딩의 정석 : 파이썬", 생능출판사, 2020
 - 도경구, "컴퓨터입문: 제6장 - 컴퓨터언어와 프로그래밍", 한양대학교 전산교재 편찬위원회, 한양대학교 출판원, 1996
 
 #### 역서
