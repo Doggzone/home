@@ -28,6 +28,7 @@
 
 ### Potpourri
 - [My Discogs](https://www.discogs.com/ko/user/dosori/collection)
+- [Analog Planet](https://www.analogplanet.com/)
 - [Jazz Discography Project](https://www.jazzdisco.org/)
 - [Geopolitics](https://zeihan.com/)
 
