@@ -6,9 +6,9 @@
 - Head, Programming Languages Laboratory (a.k.a. PLASSE Research Laboratory), Hanyang University ERICA
 - CEO, Softopia, Inc.
 - 한국저작권위원회 소프트웨어 감정전문위원
-- 파이터치연구원 비상임이사
 
 ### Hot!
+- [출판 임박] 도경구 저, 프로그래밍의 정석 - 파이썬, 생능출판사, 2020.
 - [강의(학부)] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2020년 2학기
 - [강의(학부)] [CSE2016 프로그램설계방법론](https://doggzone.github.io/cse2016/), 2020년 2학기
 - [강의(학부-신산업소프트웨어전공)] [COM1002 프로그래밍1](https://doggzone.github.io/com1002/), 2020년 2학기
