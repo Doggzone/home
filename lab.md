@@ -19,19 +19,17 @@ Programming Languages Laboratory
 ### Students
 
 #### Ph.D.
-- 조소희 Jo Sohee (2009.9 ~)
 - 정승철 Jeong Seung Cheol
 - 홍성문 Hong Sung Moon (2014.9 ~)
 - Nurul Atiqah Binti Abu Talib (2013.9 ~, MS+PhD)
 - Norhafizah Binti Nizar (2013.9 ~, MS+PhD)
-
-#### M.S.
 - Baljinnyam Baasan-Ochir (2019.3 ~, MS+PhD)
 
-#### B.S.
+#### M.S.
 - 양준혁 (2019.9~, BS+MS)
-- 박성우 (2017.3 ~)
-- 모지환 (2018.3 ~)
+
+#### B.S.
+- 모지환 (2018.3 ~ 2021.2)
 
 ### Alumni
 
@@ -108,7 +106,8 @@ Programming Languages Laboratory
 - Morten Rhiger, DAIMI, Aarhus University, Denmark, (1998.1 ~ 5)
 
 #### Undergraduate Interns
-- 이제형 (2015.11~2019.2) : SCVSOFT
+- 박성우 (2017.3 ~2020.2)
+- 이제형 (2015.11~2019.2)
 - 박건우 (2015.1 ~ 2017.2)
 - 이정균, 조창연, 강현구 (2010.7 ~ 2011.6)
 - 이준 (2011.7 ~ 2012.6)
