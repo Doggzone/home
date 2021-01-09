@@ -6,32 +6,33 @@ title: Teaching
 ### Lecture
 
 #### Undergraduate
-- CSE2020 음악프로그래밍 : 2019, [2020](https://doggzone.github.io/cse2020/)
-- CSE2016 프로그램설계방법론 : 2014, 2020
-- (신산업소프트웨어전공) COM1002 프로그래밍1 : 2020
-- (HESS) ESS1017 Computational Civilization and Artificial Intelligence : [2019](https://doggzone.github.io/CCAI/)
 - CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, [2019](https://doggzone.github.io/cse1017/), 2021
-- ENE414 프로그래밍언어론 : 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2011, 2012, 2015, 2016, 2018
-- CUL0118 컴퓨팅사고와문제해결 : 2017
-- CSE2018 시스템프로그래밍기초 : 2016
-- CUL7070 프로그래밍개론 : 2015, 2016 (Online)
-- CSE215 프로그램설계기초 : 2008, 2009
-- CSE107 논리학 : 2006, 2007, 2008, 2009, 2010, 2011
-- ECC203 고급프로그래밍(ML) : 2004, 2006, 2007
-- ECC203 고급프로그래밍(Haskell) : 2003
-- COM218 객체지향프로그래밍 : 2002
-- ECC203 고급프로그래밍(Java) : 2000, 2001
-- CSE3009 컴파일러구조 : 1999, 2000, 2014
-- CSE319 알고리즘해석 : 1995, 1996, 1997, 1998, 1999
-- 세미나 : 1997
-- COBOL(Java) : 1997
-- COBOL(ML) : 1996
-- 수치계산 : 1995
+- (신산업소프트웨어전공) COM1003 프로그래밍2 : 2021.
+- CSE2020 음악프로그래밍 : 2019, [2020](https://doggzone.github.io/cse2020/), 2021
+- CSE2016 프로그램설계방법론 : 2014, [2020](https://doggzone.github.io/cse2016/), 2021
+- (신산업소프트웨어전공) COM1002 프로그래밍1 : [2020](https://doggzone.github.io/com1002/).
+- (HESS) ESS1017 Computational Civilization and Artificial Intelligence : [2019](https://doggzone.github.io/CCAI/)
+- ENE414 프로그래밍언어론 : 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2011, 2012, 2015, 2016, 2018.
+- CUL0118 컴퓨팅사고와문제해결 : 2017.
+- CSE2018 시스템프로그래밍기초 : 2016.
+- CUL7070 프로그래밍개론 : 2015, 2016 (Online).
+- CSE215 프로그램설계기초 : 2008, 2009.
+- CSE107 논리학 : 2006, 2007, 2008, 2009, 2010, 2011.
+- ECC203 고급프로그래밍(ML) : 2004, 2006, 2007.
+- ECC203 고급프로그래밍(Haskell) : 2003.
+- COM218 객체지향프로그래밍 : 2002.
+- ECC203 고급프로그래밍(Java) : 2000, 2001.
+- CSE3009 컴파일러구조 : 1999, 2000, 2014.
+- CSE319 알고리즘해석 : 1995, 1996, 1997, 1998, 1999.
+- 세미나 : 1997.
+- COBOL(Java) : 1997.
+- COBOL(ML) : 1996.
+- 수치계산 : 1995.
 
 #### Graduate
+- CSE8045 Principles of Programming Languages : 2007, 2009, 2011, 2014, 2021
 - CSE9107 프로세스마이닝 (Process Mining) : 2020
 - CSE6035 Principles of Reactive Programming : 2014
-- CSE8045 Principles of Programming Languages : 2007, 2009, 2011, 2014
 - CSE879 소프트웨어보안특강 (Special Topics in Software Security) : 2010
 - CIN870 정형기법 (Logic in Computer Science) : 2002, 2004, 2006, 2008
 - CIN869 프로그램분석 (Principles of Program Analysis) : 2002, 2004
