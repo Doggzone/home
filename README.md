@@ -8,11 +8,10 @@
 - 한국저작권위원회 소프트웨어 감정전문위원
 
 ### Hot!
-- [출판 임박] 도경구, (제어 구조의 설계 원리를 중심으로 배우는) 프로그래밍의 정석 - 파이썬, 생능출판사, 2020.
-- [강의(학부)] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2020년 2학기
-- [강의(학부)] [CSE2016 프로그램설계방법론](https://doggzone.github.io/cse2016/), 2020년 2학기
-- [강의(학부-신산업소프트웨어전공)] [COM1002 프로그래밍1](https://doggzone.github.io/com1002/), 2020년 2학기
-- [강의(대학원)] [CSE9107 프로세스마이닝](https://doggzone.github.io/cse9107/), 2020년 2학기
+- [도서] 도경구, (제어 구조의 설계 원리를 중심으로 배우는) 프로그래밍의 정석 - 파이썬, 생능출판사, 2020. [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630).
+- [강의(학부)] CSE1017 프로그래밍기초, 2021년 1학기
+- [강의(학부-신산업소프트웨어전공)] COM1003 프로그래밍2, 2021년 1학기
+- [강의(대학원)] CSE8045 프로그래밍언어론, 2021년 1학기
 - [SW중심대학 산학R&D프로젝트, 지티원] 머신러닝으로 소스코드 보안취약점 탐지, 2020.1.1-12.31, 40,000,000원
 
 ### The World of Software
