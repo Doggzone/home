@@ -8,7 +8,7 @@
 - 한국저작권위원회 소프트웨어 감정전문위원
 
 ### Hot!
-- [도서] 도경구, (제어 구조의 설계 원리를 중심으로 배우는) 프로그래밍의 정석 - 파이썬, 생능출판사, 2020. [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630).
+- [도서출판] 도경구, 프로그래밍의 정석 - 파이썬, [생능출판사](https://www.booksr.co.kr/), 2020. [강의](https://youtube.com/playlist?list=PL0UNsS2daHTyoDTctKpITfbW1UtR5ig6L), [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630).
 - [강의(학부)] CSE1017 프로그래밍기초, 2021년 1학기
 - [강의(학부-신산업소프트웨어전공)] COM1003 프로그래밍2, 2021년 1학기
 - [강의(대학원)] CSE8045 프로그래밍언어론, 2021년 1학기
