@@ -13,9 +13,9 @@
   - [보조 자료 및 정오표](https://drive.google.com/drive/folders/1RMa0oL91nP98BOVWfx0tYWFbhhU5VjKy?usp=sharing)
   - 서점 : [교보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630).
 - [강의(학부)] [CSE1017 프로그래밍기초](https://doggzone.github.io/cse1017/), 2021년 1학기
-- [강의(학부-신산업소프트웨어전공)] COM1003 프로그래밍2, 2021년 1학기
+- [강의(학부-신산업소프트웨어전공)] [COM1003 프로그래밍2](https://doggzone.github.io/com1003/), 2021년 1학기
 - [강의(대학원)] CSE8045 프로그래밍언어론, 2021년 1학기
-- [SW중심대학 산학R&D프로젝트, 지티원] 머신러닝으로 소스코드 보안취약점 탐지, 2020.1.1-12.31, 40,000,000원
+- [SW중심대학 산학R&D프로젝트, 지티원(주)] 기계학습을 활용한 그래프 기반 보안취약점 분석기법 연구, 2021.1.1-12.31, 40,000,000원
 
 ### The World of Software
 - [Scala](https://www.scala-lang.org/), [Haskell](https://www.haskell.org/platform/)
