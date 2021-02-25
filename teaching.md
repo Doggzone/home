@@ -6,7 +6,7 @@ title: Teaching
 ### Lecture
 
 #### Undergraduate
-- CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, [2019](https://doggzone.github.io/cse1017/), 2021
+- CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2021
 - (신산업소프트웨어전공) COM1003 프로그래밍2 : 2021.
 - CSE2020 음악프로그래밍 : 2019, [2020](https://doggzone.github.io/cse2020/), 2021
 - CSE2016 프로그램설계방법론 : 2014, [2020](https://doggzone.github.io/cse2016/), 2021
