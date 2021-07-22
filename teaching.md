@@ -7,9 +7,9 @@ title: Teaching
 
 #### Undergraduate
 - CSE1017 프로그래밍기초 : 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, [2021](https://doggzone.github.io/cse1017/).
+- CSE2020 음악프로그래밍 : 2019, 2020, 2021.
+- CSE2016 프로그램설계방법론 : 2014, 2020, 2021.
 - (신산업소프트웨어전공) COM1003 프로그래밍2 : 2021.
-- CSE2020 음악프로그래밍 : 2019, [2020](https://doggzone.github.io/cse2020/), 2021.
-- CSE2016 프로그램설계방법론 : 2014, [2020](https://doggzone.github.io/cse2016/), 2021.
 - (신산업소프트웨어전공) COM1002 프로그래밍1 : 2020.
 - (HESS) ESS1017 Computational Civilization and Artificial Intelligence : [2019](https://doggzone.github.io/CCAI/).
 - ENE414 프로그래밍언어론 : 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2011, 2012, 2015, 2016, 2018.
