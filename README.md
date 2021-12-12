@@ -8,6 +8,7 @@
 - 한국저작권위원회 소프트웨어 감정전문위원
 
 ### Hot!
+
 - [강의(학부)] [CSE2016 프로그램설계방법론](https://doggzone.github.io/cse2016/), 2021년 2학기
 - [강의(학부)] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2021년 2학기
 - [신간] 도경구, 프로그래밍의 정석 - 파이썬, [생능출판사](https://www.booksr.co.kr/), 2020. 
