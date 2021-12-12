@@ -45,7 +45,7 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 
 - Kyung-Goo Doh, David A. Schmidt: [Action semantics-directed prototyping](https://www.sciencedirect.com/science/article/pii/009605519390008O), *Computer Languages*, 19(4):213-233, Pergamon Press, 1993.
 
-- Kyung-Goo Doh, David A. Schmidt: [Extraction of strong typing laws from action semantics definitions](https://link.springer.com/chapter/10.1007/3-540-55253-7_9), ESOP'92, In Proceedings of *European Symposium On Programming*, Rennes, France, February 26-28, Lecture Notes in Computer Science 582:151-166 , Springer-Verlag, 1992. ![1992 ESOP](https://i.imgur.com/jcJ5ADL.jpg)
+- Kyung-Goo Doh, David A. Schmidt: [Extraction of strong typing laws from action semantics definitions](https://link.springer.com/chapter/10.1007/3-540-55253-7_9), ESOP'92, In Proceedings of *European Symposium On Programming*, Rennes, France, February 26-28, Lecture Notes in Computer Science 582:151-166 , Springer-Verlag, 1992. ![1992 ESOP](https://i.imgur.com/jcJ5ADL.jpg) Photo by Olivier Danvy
 
 #### Software Security
 
