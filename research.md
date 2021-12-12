@@ -49,6 +49,8 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 
 #### Software Security
 
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Assessment of Dynamic Open-source Cross-site Scripting Filters for Web Application](http://itiis.org/digital-library/25023), KSII Transactions on Internet and Information Systems, Vol. 15, No. 10, pp.3750-3770, October 31, 2021.
+
 - Suman Saha, Shizhen Jin, Kyung-Goo Doh: [Detection of DOM-based cross-site scripting by dynamically extracted
 scripts](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.371.2144), In Proceedings of International Conference on Information Science and Technology, Part 2, pp.487-491, Shanghai, China, April 2012.
 
