@@ -49,10 +49,11 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 
 #### Software Security
 
-- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Assessment of Dynamic Open-source Cross-site Scripting Filters for Web Application](http://itiis.org/digital-library/25023), KSII Transactions on Internet and Information Systems, Vol. 15, No. 10, pp.3750-3770, October 31, 2021.
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Static analysis tools against cross-site scripting vulnerabilities in Web applications : an analysis](http://www.i3.or.kr/html/paper/2021-2/(14\)2021-2.pdf), Journal of Software Assessment and Valuation (JSAV), Vol. 17, No. 2, pp.125-142, December 31, 2021.
 
-- Suman Saha, Shizhen Jin, Kyung-Goo Doh: [Detection of DOM-based cross-site scripting by dynamically extracted
-scripts](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.371.2144), In Proceedings of International Conference on Information Science and Technology, Part 2, pp.487-491, Shanghai, China, April 2012.
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Assessment of dynamic open-source cross-site scripting filters for Web application](http://itiis.org/digital-library/25023), KSII Transactions on Internet and Information Systems, Vol. 15, No. 10, pp.3750-3770, October 31, 2021.
+
+- Suman Saha, Shizhen Jin, Kyung-Goo Doh: [Detection of DOM-based cross-site scripting by dynamically extracted scripts](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.371.2144), In Proceedings of International Conference on Information Science and Technology, Part 2, pp.487-491, Shanghai, China, April 2012.
 
 - Ho-Gil Song, Yukyong Kim, Kyung-Goo Doh: [Automatic detection of access control vulnerabilities in Web applications by URL crawling and forced browsing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.469.5880&rank=1), In Proceedings of International Conference on Information Science and Technology, Part 2, pp.482-486, Shanghai, China, April 2012.
 
