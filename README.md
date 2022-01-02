@@ -10,7 +10,7 @@
 ### Hot!
 
 - [강의(학부)] CSE1017 프로그래밍기초, 2022년 1학기
-- [수상] 문화체육관광부 장관 표창, 제2021-390호, 2021.11.3
+- [수상] 문화체육관광부 장관 표창, 제2021-390호, [2021 국제저작권기술 콘퍼런스(ICOTEC)](http://www.discoverynews.kr/news/articleView.html?idxno=675853), 2021.11.3
 - [신간] 도경구, 프로그래밍의 정석 - 파이썬, [생능출판사](https://www.booksr.co.kr/), 2020
   - [강의 영상](https://youtube.com/playlist?list=PL0UNsS2daHTyoDTctKpITfbW1UtR5ig6L)
   - [보조 자료 및 정오표](https://drive.google.com/drive/folders/1RMa0oL91nP98BOVWfx0tYWFbhhU5VjKy?usp=sharing)
