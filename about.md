@@ -22,7 +22,7 @@ title: About
 - Artillery Officer (ROTC 18), Republic of Korea Army, 1980.3 ~ 1982.6
 
 ### Award
-- 도경구, 문화체육관광부 장관 표창, 제2021-390호, 2021.11.3
+- 도경구, 문화체육관광부 장관 표창, 제2021-390호, [2021 국제저작권기술 콘퍼런스(ICOTEC)](http://www.discoverynews.kr/news/articleView.html?idxno=675853), 2021.11.3
 - 도경구, 행정안전부 장관 표창, 제9905호, 2009.12.29
 - 도경구, 변석우, 신승철, 정주희: 가헌학술상, 한국정보과학회/가헌신도리코재단, 2004.10.22
 
