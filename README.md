@@ -22,11 +22,10 @@
 - [POPL](https://conf.researchr.org/series/POPL), [PLDI](https://www.sigplan.org/Conferences/PLDI/), [ICSE](http://www.icse-conferences.org/), ...
 - [Lambda.World](http://www.lambda.world/), [GOTO Conferences](https://blog.gotocon.com/)
 - [oncoder](https://www.oncoder.com/), [백준](https://www.acmicpc.net/), [codeground](https://www.codeground.org/)
-- [김익환의 "소프트웨어 지혜"](http://www.ikwisdom.com/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35), [Software 2.0 – A Paradigm Shift](https://www.robosoftin.com/blog/author/h-n-ramkumar)
 - [ChucK](https://chuck.cs.princeton.edu/), [JythonMusic](https://jythonmusic.me/)
-- [TOPLAP](https://toplap.org/), [Algorave](https://algorave.com/), [EulerRoom](http://www.eulerroom.com/)
+
 
 ### Potpourri
 - [My Discogs](https://www.discogs.com/ko/user/dosori/collection)
