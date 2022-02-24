@@ -11,7 +11,7 @@ title: About
 
 ### Career
 - CEO, Softopia Inc., 2013.10.18 ~ present
-- Professor, Associate Professor, Assistant Professor, Division of Computer Science, College of Computing, Hanyang University ERICA, 1995.9 ~ 2023.2
+- Professor, Associate Professor, Assistant Professor, School of Computer Science, College of Computing, Hanyang University ERICA, 1995.9 ~ 2023.2
 - Dean, College of Computing, Hanyang University ERICA, 2016.9 ~ 2018.12
 - Director, SMaSH (Software Maven School at Hanyang), 2012.7 ~ 2016.2
 - Visiting Scholar, Department of Computer Science, University of California Davis, U.S.A., host: Professor Zhendong Su, 2005.3 ~ 2006.2
