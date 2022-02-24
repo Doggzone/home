@@ -2,7 +2,7 @@
 
 ### 도경구 | 都敬九
 
-- Professor, Division of Computer Science, College of Computing, Hanyang University ERICA
+- Professor, School of Computer Science, College of Computing, Hanyang University ERICA
 - Head, Programming Languages Laboratory (a.k.a. PLASSE Research Laboratory), Hanyang University ERICA
 - CEO, Softopia, Inc.
 - 한국저작권위원회 소프트웨어 감정전문위원
