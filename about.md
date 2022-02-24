@@ -30,6 +30,7 @@ title: About
 ### Media
 - [SPRi Forum 제41회: 「제4차 산업혁명 시대의 SW교육 혁신, 해법을 찾아서」](https://www.onoffmix.com/event/165528), 학생주도의 SW교육 사례 및 시사점([video](https://youtu.be/1zO9m2wi2g0)), 2019년1월29일.
 - [산업 현장 목소리 담는 대학 SW교육 혁신](http://www.etnews.com/20181224000176), 전자신문, 2018년 12월 25일. ([종이](https://drive.google.com/file/d/1TygTuVWru2ra_jl4H67f6AHLiE6kqD8a/view?usp=sharing))
+- [(사랑한대 활동) 2019학년도 수시 학생부 종합II전형 면접고사 학부모 의전](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hanyangiphak&logNo=221411105584), 2018년 12월 2일.
 - [ERICA, SW중심대학 산학협력협의회 개최](http://www.newshyu.com/news/articleView.html?idxno=366543), NewsH, 2018년 8월 23일. ([한국대학신문 기사](http://news.unn.net/news/articleView.html?idxno=193637))
 - [Research of ERICA - Special Interview: 소프트웨어가 지배할 세상, 미래의 리더를 키워라](http://hyerica.com/?p=2758), HY ERICA, Summer 2018, Vol.88, 34~37쪽
 - [4차 산업혁명에 최적화된 융합 인재 인큐베이터 소프트웨어융합대학](http://www.newshyu.com/news/articleView.html?idxno=408943), 사랑한대, May/June 2018, [Vol.242](https://book.hanyang.ac.kr/Viewer/lovehyu201805), 14~15쪽.
@@ -40,6 +41,7 @@ title: About
 - [2017 ERICA SW융합 페스티벌](http://www.newshyu.com/news/articleView.html?idxno=100743), 2017년 3월 10~11일. ([개최 안내](http://www.newshyu.com/news/articleView.html?idxno=90143))
 - [Special Interview: 넘버원보다 온리원! 특색과 매력이 있는 대학을 만들 것](doc/PRIME-1-1.pdf), The PRIME ERICA, Vol.1, No.1, 2016, 26~27쪽
 - [서평: 이광근 교수의 '컴퓨터과학이 여는 세계'](doc/book-cs-leaflet.pdf), 2015년
+- [K-TV 국민방송: 소프트웨어 인재양성](https://www.ktv.go.kr/news/latest/view?content_id=489654), 2014년 8월 22일.
 - [기관탐방: 소프트웨어 선두주자 한양대학교 컴퓨터공학과](http://www.kiise.or.kr/newsletter/data/492_organ.htm), 한국정보과학 뉴스레터 제492호, 2013년 4월 24일
 - [SMaSH - 소프트웨어의 선두 주자](http://www.newshyu.com/news/articleView.html?idxno=8456), 인터넷한양뉴스 2012년 8월 10일
 - [한양의 맥박을 찾아서 67: 디지털 세상의 Error를 찾아라](http://www.newshyu.com/news/articleView.html?idxno=1113), Weekly Hanyang, 2003년 2월 15일.
