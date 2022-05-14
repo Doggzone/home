@@ -3,11 +3,11 @@ layout: page
 title: Research
 ---
 ### Research Interests
-- Programming language design workbench
-- Domain-specific language design
-- Program analysis : String analysis
-- Grammatical inference
+- Program analysis > String analysis
 - Software security
+- Domain-specific language design
+- Software architecture
+- Programming music
 
 ### Publication
 [Google Scholar](https://scholar.google.com/citations?user=5GoMywoAAAAJ&hl=en) | [dblp](https://dblp.org/pers/hd/d/Doh:Kyung=Goo) |
