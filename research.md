@@ -49,9 +49,9 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 
 #### Software Security
 
-- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Run-time Detection of Cross-site Scripting: A Machine-Learning Approach Using Syntactic-Tagging N-Gram Features](https://www.cscjournals.org/library/manuscriptinfo.php?mc=IJCSS-1676), International Journal of Computer Science & Security (IJCSS), Vol 16, Issue 2, pp.9-27, 2022.
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Run-time Detection of Cross-site Scripting: A Machine-Learning Approach Using Syntactic-Tagging N-Gram Features](https://www.cscjournals.org/library/manuscriptinfo.php?mc=IJCSS-1676), International Journal of Computer Science & Security (IJCSS), Vol 16, Issue 2, pp.9-27, June 30, 2022.
 
-- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [An Analysis of Machine-Learning Feature-Extraction Techniques using Syntactic Tagging for Cross-site Scripting Detection](http://www.i3.or.kr/html/paper/2022-1/(13)2022-1.pdf), Journal of Software Assessment and Valuation (JSAV), Vol. 18, No. 1, pp.107-118, June 3, 2022.
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [An Analysis of Machine-Learning Feature-Extraction Techniques using Syntactic Tagging for Cross-site Scripting Detection](http://www.i3.or.kr/html/paper/2022-1/(13)2022-1.pdf), Journal of Software Assessment and Valuation (JSAV), Vol. 18, No. 1, pp.107-118, June 30, 2022.
 
 - Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Static analysis tools against cross-site scripting vulnerabilities in Web applications : an analysis](http://www.i3.or.kr/html/paper/2021-2/(14)2021-2.pdf), Journal of Software Assessment and Valuation (JSAV), Vol. 17, No. 2, pp.125-142, December 31, 2021.
 
