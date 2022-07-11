@@ -4,6 +4,7 @@ title: Service
 ---
 
 ### 한양대학교
+
 - ERICA 2.0 자문위원회 위원, 2019.3.1~2020.2.29
 - SW중심대학 사업단장, 2018.4.1~2018.12.31
 - 소프트웨어융합대학장, 2016.9.1~2018.12.31
@@ -14,7 +15,7 @@ title: Service
 - 컴퓨터공학과 전공주임, 2002.8~2004.7
 - 인터넷창업보육센터 운영부장, 1999.8~2004.9
 - 창업보육센터 운영위원, 1997.3~1999.7
--
+
 
 ### International Program
 - [South Korea Summer Institute at Kansas State University](https://global.k-state.edu/partnerships/international/)
@@ -58,7 +59,7 @@ title: Service
   + SW 저작권 및 분쟁조정 자문위원
 - 대한전자공학회
   + 전자계산연구회 운영위원, 1997~8
--
+
 
 ### 사회 활동
 - 파이터치연구원 비상임이사, 2019.9.26~2022.9.25
