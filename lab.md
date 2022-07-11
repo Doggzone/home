@@ -21,16 +21,11 @@ Programming Languages Laboratory
 #### Ph.D.
 - 정승철 Jeong Seung Cheol
 - 홍성문 Hong Sung Moon (2014.9 ~)
-- Nurul Atiqah Binti Abu Talib (2013.9 ~, MS+PhD)
-- Norhafizah Binti Nizar (2013.9 ~, MS+PhD)
-- Baljinnyam Baasan-Ochir (2019.3 ~, MS+PhD)
 
 #### M.S.
-- 양준혁 (2019.9~, BS+MS)
 - 모지환 (2021.3 ~ )
 
 #### B.S.
-- 모지환 (2018.3 ~ 2021.2)
 - 엄태호 (2020.11 ~ )
 - 장효석 (2020.11 ~ )
 
@@ -42,6 +37,7 @@ Programming Languages Laboratory
 1. 이효섭 Lee Hyosub (2013) : Korea Polytechnics, Dissertation: Automatic Detection of Code Clones based on Tree Patterns
 2. 김현하 Kim Hyunha (2013) : Softopia, Dissertation: Static Validation of Web Pages based on Abstract Parsing
 3. 최태형 Choi Tae-Hyoung (2017) : GTOne, Dissertation: Generation a Path-discriminated String Analysis
+4. Nurul Atiqah Abu Talib (2022) : Dissertation: Detecting Cross-Site Scripting Attacks By Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
 #### M.S.
 
@@ -92,6 +88,7 @@ Programming Languages Laboratory
 45. 이정훈 (2017) : GTOne
 46. 조상원 (2018) : 파수닷컴
 47. 박건우 (2019+) : KORBIT
+48. 양준혁 (2022+) : GTOne
 
 #### 산업경영대학원
 1. 김재형 (생산자동화전공, 1998)
@@ -108,7 +105,12 @@ Programming Languages Laboratory
 - Yukyong Kim (2007 ~ 2013)
 - Morten Rhiger, DAIMI, Aarhus University, Denmark, (1998.1 ~ 5)
 
+#### Lab Memebrs
+- Norhafizah Binti Nizar (2013.9 ~ 2021)
+- Baljinnyam Baasan-Ochir (2019.3 ~ 2021)
+- 
 #### Undergraduate Interns
+- 모지환 (2018.3 ~ 2021.2)
 - 박성우 (2017.3 ~2020.2)
 - 이제형 (2015.11~2019.2)
 - 박건우 (2015.1 ~ 2017.2)

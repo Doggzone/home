@@ -49,6 +49,10 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 
 #### Software Security
 
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Run-time Detection of Cross-site Scripting: A Machine-Learning Approach Using Syntactic-Tagging N-Gram Features](https://www.cscjournals.org/library/manuscriptinfo.php?mc=IJCSS-1676), International Journal of Computer Science & Security (IJCSS), Vol 16, Issue 2, pp.9-27, June 30, 2022.
+
+- Nurul Atiqah Abu Talib, Kyung-Goo Doh: [An Analysis of Machine-Learning Feature-Extraction Techniques using Syntactic Tagging for Cross-site Scripting Detection](http://www.i3.or.kr/html/paper/2022-1/(13)2022-1.pdf), Journal of Software Assessment and Valuation (JSAV), Vol. 18, No. 1, pp.107-118, June 30, 2022.
+
 - Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Static analysis tools against cross-site scripting vulnerabilities in Web applications : an analysis](http://www.i3.or.kr/html/paper/2021-2/(14)2021-2.pdf), Journal of Software Assessment and Valuation (JSAV), Vol. 17, No. 2, pp.125-142, December 31, 2021.
 
 - Nurul Atiqah Abu Talib, Kyung-Goo Doh: [Assessment of dynamic open-source cross-site scripting filters for Web application](http://itiis.org/digital-library/25023), KSII Transactions on Internet and Information Systems, Vol. 15, No. 10, pp.3750-3770, October 31, 2021.
@@ -175,7 +179,7 @@ host: Christian Quiennec
 
 #### 논문
 - 엄태호, 홍성문, 양준혁, 장효석, 도경구, "[code2vec을 이용한 유사도 감정 도구의 성능 개선](http://www.i3.or.kr/html/paper/2021-1/(5)2021-1.pdf)", 한국소프트웨어감정평가학회논문지, 제17권, 제1호, 31~40, 2021년 6월
-- 양준혁, 모지환, 홍성문, 도경구, "code2vec 모델을 활용한 소스 코드 보안 취약점 탐지", 한국소프트웨어감정평가학회논문지, 제16권, 제2호, 45~52, 2020년 12월
+- 양준혁, 모지환, 홍성문, 도경구, "[code2vec 모델을 활용한 소스 코드 보안 취약점 탐지](http://www.i3.or.kr/html/paper/2020-2/(5)2020-2.pdf)", 한국소프트웨어감정평가학회논문지, 제16권, 제2호, 45~52, 2020년 12월
 - 박건우, 홍성문, 김현하, 도경구, "트리 기반 컨볼루션 신경망을 이용한 BigCloneBench 개선", 한국소프트웨어감정평가학회논문지, 제15권, 제1호, 43~53, 2019년 6월
 - 홍성문, 김현하, 이제형, 박성우,모지환, 도경구, "공통 토큰에 기반한 서로 다른 언어의 유사성 검사", 한국소프트웨어감정평가학회논문지, 제14권, 제2호, 35~44, 2018년 12월 (우수논문상 수상, 제2019-A01호, 2019년 5월 17일)
 - 최태형, ??, 도경구, "모바일 앱 소스코드 보안약점 자동탐지", 보안공학연구논문지, 제14권, 제2호, 91~102, 2017년 4월
