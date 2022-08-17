@@ -37,7 +37,7 @@ Programming Languages Laboratory
 1. 이효섭 Lee Hyosub (2013) : Korea Polytechnics, Dissertation: Automatic Detection of Code Clones based on Tree Patterns
 2. 김현하 Kim Hyunha (2013) : Softopia, Dissertation: Static Validation of Web Pages based on Abstract Parsing
 3. 최태형 Choi Tae-Hyoung (2017) : GTOne, Dissertation: Generation a Path-discriminated String Analysis
-4. Nurul Atiqah Abu Talib (2022) : Dissertation: Detecting Cross-Site Scripting Attacks By Machine-Learning-Based Text Classification Through Normalizing Input Payloads
+4. Nurul Atiqah Abu Talib (2022) : Universiti Kuala Lumpur, Dissertation: Detecting Cross-Site Scripting Attacks By Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
 #### M.S.
 
