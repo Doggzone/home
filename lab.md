@@ -20,7 +20,7 @@ Programming Languages Laboratory
 
 #### Ph.D.
 - 정승철 Jeong Seung Cheol
-- 홍성문 Hong Sung Moon (2014.9 ~)
+- 홍성문 Hong Sung Moon (2014.9 \~)
 
 #### M.S.
 - 모지환 (2021.3 ~ )
@@ -43,7 +43,7 @@ Programming Languages Laboratory
 
 1. 곽노건 (1998+) : 컴스퀘어
 2. 강현구 (1999) : S-Core, Ph.D.(KAIST)
-3. 최기환 (1999+) : 한양대학교 ERICA SW교육센터
+3. 최기환 (1999+) : 한양대학교 ERICA
 4. 강건우 (2000+) :
 5. 서정호 (2001) : 삼성전자
 6. 조영갑 (2002) : 소프트캠프
@@ -65,7 +65,7 @@ Programming Languages Laboratory
 22. 이상용 (2007) : KOMSCO
 23. 정혜령 (2007) : LG전자
 24. 김형철 (2008) : 모다콤
-25. 조소희 (2009) : 한양대학교 박사과정
+25. 조소희 (2009) : 
 26. 오세광 (2009+) : 위너스텍
 27. An Dimin 안제민 (2010) :
 28. Suman Saha (2010) : Penn State University Altoona, Ph.D.(INRIA, France)
