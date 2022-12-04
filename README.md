@@ -11,10 +11,8 @@
 
 - [강의(학부)] [CSE2016 프로그램설계방법론](https://doggzone.github.io/cse2016/), 2022년 2학기.
 - [강의(학부)] [CSE2020 음악프로그래밍](https://doggzone.github.io/cse2020/), 2022년 2학기.
-- [수상] 문화체육관광부 장관 표창, 제2021-390호, [2021 국제저작권기술 콘퍼런스(ICOTEC)](http://www.discoverynews.kr/news/articleView.html?idxno=675853), 2021.11.3
 - [신간] 도경구, 프로그래밍의 정석 - 파이썬, [생능출판사](https://www.booksr.co.kr/), 2020
   - [강의 동영상, 학습 자료, 정오표](https://doggzone.github.io/pppython/)
-  - 서점 : [교보](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788970504735&orderClick=LA6), [Yes24](http://www.yes24.com/Product/Goods/96546953), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259540630)
 - [SW중심대학 산학R&D프로젝트, 지티원(주)] 딥러닝 기반 프로그램 분석 결과 클러스터링, 2022.1.1-12.31, 40,000,000원
 
 ### The World of Software
