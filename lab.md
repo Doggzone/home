@@ -3,7 +3,7 @@ layout: page
 title: Lab
 ---
 
-Softopia, Inc.
+Softopia, Inc. (2013-)
 --------------
 
 ![Softopia](https://i.imgur.com/3Z4nx6n.png)
@@ -11,7 +11,7 @@ Softopia, Inc.
 -	CEO, 도경구 Doh Kyung-Goo
 -	CTO, 김현하 Kim Hyunha
 
-Programming Languages Laboratory
+Programming Languages Laboratory (1995-2023)
 --------------------------------
 
 ![PLASSE](https://i.imgur.com/HioSLuL.png)
@@ -89,6 +89,7 @@ Programming Languages Laboratory
 46. 조상원 (2018) : 파수닷컴
 47. 박건우 (2019+) : KORBIT
 48. 양준혁 (2022+) : GTOne
+49. 모지환 (2023) 
 
 #### 산업경영대학원
 1. 김재형 (생산자동화전공, 1998)
