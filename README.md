@@ -15,21 +15,6 @@
   - [강의 동영상, 학습 자료, 정오표](https://doggzone.github.io/pppython/)
 - [SW중심대학 산학R&D프로젝트, 지티원(주)] 딥러닝 기반 프로그램 분석 결과 클러스터링, 2022.1.1-12.31, 40,000,000원
 
-### The World of Software
-- [Scala](https://www.scala-lang.org/), [Haskell](https://www.haskell.org/platform/)
-- [POPL](https://conf.researchr.org/series/POPL), [PLDI](https://www.sigplan.org/Conferences/PLDI/), [ICSE](http://www.icse-conferences.org/), ...
-- [Lambda.World](http://www.lambda.world/), [GOTO Conferences](https://blog.gotocon.com/)
-- [oncoder](https://www.oncoder.com/), [백준](https://www.acmicpc.net/), [codeground](https://www.codeground.org/)
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35), [Software 2.0 – A Paradigm Shift](https://www.robosoftin.com/blog/author/h-n-ramkumar)
-- [ChucK](https://chuck.cs.princeton.edu/), [JythonMusic](https://jythonmusic.me/)
-
-
-### Potpourri
-- [My Discogs](https://www.discogs.com/ko/user/dosori/collection)
-- [Analog Planet](https://www.analogplanet.com/)
-- [Jazz Discography Project](https://www.jazzdisco.org/)
-- [Geopolitics](https://zeihan.com/)
 
 ### Contact Points
 - Office: 제4공학관 #320 (phone: +82-31-400-5667, fax: +82-31-400-3850)
