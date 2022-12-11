@@ -61,6 +61,8 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 
 - Ho-Gil Song, Yukyong Kim, Kyung-Goo Doh: [Automatic detection of access control vulnerabilities in Web applications by URL crawling and forced browsing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.469.5880&rank=1), In Proceedings of International Conference on Information Science and Technology, Part 2, pp.482-486, Shanghai, China, April 2012.
 
+- Hyunha Kim, Tae-Hyoung Choi, Seung-Cheol Jung, Hyoung-Cheol Kim, Oukseh Lee, Kyung-Goo Doh: [Applying dataflow analysis to detecting software vulnerability](https://ieeexplore.ieee.org/document/4493756), In Proceedings of 10th International Conference on Advanced Communication Technology, 1:255-258, February 17-20, 2008.
+
 - Minkyoung Oh, Jiyeon Lee, Byeong-Mo Chang, Joonseon Ahn, Kyung-Goo Doh: [A programming environment for ubiquitous computing environment](https://dl.acm.org/citation.cfm?id=1288261), ACM SIGPLAN Notices, 42(4):14-22, April, 2007.
 
 - Joonseon Ahn, Byeong-Mo Chang, Kyung-Goo Doh:
@@ -99,6 +101,8 @@ Generating A Standard Representation From Pascal Programs, *Technical Report #86
 - Yukyong Kim, Kyung-Goo Doh: [A trust management model for QoS-based service selection](http://link.springer.com/chapter/10.1007%2F978-3-642-35416-8_24), WISA'12, In Proceedings of the 13th *International Workshop on Information Security Applications*, Jeju, Korea, August 16-18, Lecture Notes in Computer Science 7690:345-357, Springer, 2012.
 
 - Yukyong Kim, Kyung-Goo Doh: [Formal identification of right-grained services for service-oriented modeling](https://link.springer.com/chapter/10.1007/978-3-642-04409-0_29), WISE'09, In Proceedings of 10th *International Conference on Web Information Systems Engineering*, Poznan, Poland, October 5-7,  Lecture Notes in Computer Science 5802:261-273, Springer, 2009.
+
+- Yukyong Kim, Kyung-Goo Doh: [Trust type based semantic web services assessment and selection](https://ieeexplore.ieee.org/document/4494190), In Proceedings of 10th International Conference on Advanced Communication Technology, 3:2048-2053, February 17-20, 2008.
 
 - Yukyong Kim, Kyung-Goo Doh: [An approach to modeling context-adaptable services](https://link.springer.com/chapter/10.1007/978-3-540-74829-8_77), KES'07, In Proceedings of 11th International Conference on *Knowledge-Based Intelligent Information and Engineering Systems*, Vietri sul Mare, Italy, September 12-14, Lecture Notes in Computer Science, 4694:626-633, Springer, 2007.
 
