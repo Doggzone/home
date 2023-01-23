@@ -3,7 +3,7 @@ layout: page
 title: Lab
 ---
 
-Softopia, Inc. (2013-)
+소프토피아 Softopia, Inc. (2013.10.18-)
 --------------
 
 ![Softopia](https://i.imgur.com/3Z4nx6n.png)
@@ -11,7 +11,7 @@ Softopia, Inc. (2013-)
 -	CEO, 도경구 Doh Kyung-Goo
 -	CTO, 김현하 Kim Hyunha
 
-Programming Languages Laboratory (1995-2023)
+프로그래밍언어연구실 PLASSE (1995.9-2023.2)
 --------------------------------
 
 ![PLASSE](https://i.imgur.com/HioSLuL.png)
@@ -22,74 +22,67 @@ Programming Languages Laboratory (1995-2023)
 - 정승철 Jeong Seung Cheol
 - 홍성문 Hong Sung Moon (2014.9 \~)
 
-#### M.S.
-- 모지환 (2021.3 ~ )
-
-#### B.S.
-- 엄태호 (2020.11 ~ )
-- 장효석 (2020.11 ~ )
-
 ### Alumni
 
 #### Ph.D.
 [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=81015)
 
-1. 이효섭 Lee Hyosub (2013) : Korea Polytechnics, Dissertation: Automatic Detection of Code Clones based on Tree Patterns
-2. 김현하 Kim Hyunha (2013) : Softopia, Dissertation: Static Validation of Web Pages based on Abstract Parsing
-3. 최태형 Choi Tae-Hyoung (2017) : GTOne, Dissertation: Generation a Path-discriminated String Analysis
+1. 이효섭 Lee Hyosub (2013) : 한국폴리텍대학(Korea Polytechnics), Dissertation: Automatic Detection of Code Clones based on Tree Patterns
+2. 김현하 Kim Hyunha (2013) : 소프토피아(Softopia), Dissertation: Static Validation of Web Pages based on Abstract Parsing
+3. 최태형 Choi Tae-Hyoung (2017) : 지티원(GTOne), Dissertation: Generation a Path-discriminated String Analysis
 4. Nurul Atiqah Abu Talib (2022) : Universiti Kuala Lumpur, Dissertation: Detecting Cross-Site Scripting Attacks By Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
 #### M.S.
 
-1. 곽노건 (1998+) : 컴스퀘어
-2. 강현구 (1999) : S-Core, Ph.D.(KAIST)
-3. 최기환 (1999+) : 한양대학교 ERICA
-4. 강건우 (2000+) :
-5. 서정호 (2001) : 삼성전자
-6. 조영갑 (2002) : 소프트캠프
-7. 최태형 (2002) : GTOne, Ph.D.(한양대)
-8. 천성필 (2002+) : GTOne
-9. 강영환 (2003) : 신한생명
-10. 박종서 (2003) : AP위성
-11. 서재영 (2003) :
-12. 이수강 (2003) :
-13. 임흥태 (2004) : 신도리코
-14. 윤지영 (2004) : 보험개발원
-15. 이보규 (2004+) : LG전자
-16. 김동환 (2005) : Marvell Semiconductor
-17. 김정준 (2005) : Qualcomm
-18. 김현하 (2005+) : Softopia, Ph.D.(한양대)
-19. 김동현 (2006) : (LG전자)
-20. 이상훈 (2007) : 삼성전자
-21. 김정훈 (2007) : 하이닉스
-22. 이상용 (2007) : KOMSCO
-23. 정혜령 (2007) : LG전자
-24. 김형철 (2008) : 모다콤
-25. 조소희 (2009) : 
-26. 오세광 (2009+) : 위너스텍
-27. An Dimin 안제민 (2010) :
-28. Suman Saha (2010) : Penn State University Altoona, Ph.D.(INRIA, France)
-29. Shahid Ansari (2010) :
-30. Noman Zahid (2010) :
-31. Muhammad Saleem (2010+) :
-32. 김성진 (2011) : LG전자
-33. 남경덕 (2011) : LG전자
-34. 송호길 (2012) : 슈어소프트테크
-35. Jin Shizhen 김세진 (2012)
-36. 박진원 (2012+) : 코인원
-37. Feng Kan 풍간 (2012+) : Retail Solutions, Inc.
-38. 김인 (2013) :
-39. Muhammad Suleman (2013+) : Mohammad Ali Jinnah University, Pakistan
-40. 홍성문 (2014+) : 한양대학교 박사과정
-41. 오정욱 (2015) : GTOne
-42. 박현우 (2015+) : Attoresearch
-43. 최민영 (2016)
-44. 최성하 (2016) : KORBIT
-45. 이정훈 (2017) : GTOne
-46. 조상원 (2018) : 파수닷컴
-47. 박건우 (2019+) : KORBIT
-48. 양준혁 (2022+) : GTOne
-49. 모지환 (2023) 
+1. 곽노건 (1998.8) : KMINT
+2. 강현구 (1999.2) : 에스코어, Ph.D.(KAIST)
+3. 최기환 (1999.8) : 한양대학교 ERICA
+4. 강건우 (2000.8) :
+5. 서정호 (2001.2) : 삼성전자
+6. 조영갑 (2002.2) : 소프트캠프
+7. 최태형 (2002.2) : 지티원, Ph.D.(한양대)
+8. 천성필 (2002.8) : 지티원
+9. 강영환 (2003.2) : 신한생명
+10. 박종서 (2003.2) : AP위성
+11. 서재영 (2003.2) :
+12. 이수강 (2003.2) :
+13. 임흥태 (2004.2) : 신도리코
+14. 윤지영 (2004.2) : 보험개발원
+15. 이보규 (2004.8) : LG전자
+16. 김동환 (2005.2) : Marvell Semiconductor
+17. 김정준 (2005.2) : Qualcomm
+18. 김현하 (2005.8) : Softopia, Ph.D.(한양대)
+19. 김동현 (2006.2) : (LG전자)
+20. 이상훈 (2007.2) : 삼성전자
+21. 김정훈 (2007.2) : 하이닉스
+22. 이상용 (2007.2) : KOMSCO
+23. 정혜령 (2007.2) : LG전자
+24. 김형철 (2008.2) : 모다콤
+25. 조소희 (2009.2) : 
+26. 오세광 (2009.8) : 위너스텍
+27. An Dimin 안제민 (2010.2) :
+28. Suman Saha (2010.2) : Penn State University Altoona, Ph.D.(INRIA, France)
+29. Shahid Ansari (2010.2) :
+30. Noman Zahid (2010.2) :
+31. Muhammad Saleem (2010.8) :
+32. 김성진 (2011.2) : LG전자
+33. 남경덕 (2011.2) : LG전자
+34. 송호길 (2012.2) : 슈어소프트테크
+35. Jin Shizhen 김세진 (2012.2)
+36. 박진원 (2012.8) : 코인원
+37. Feng Kan 풍간 (2012.8) : NIO
+38. 김인 (2013.2) :
+39. Muhammad Suleman (2013.8) : Mohammad Ali Jinnah University, Pakistan
+40. 홍성문 (2014.8) : 한양대학교 박사과정
+41. 오정욱 (2015.2) : 지티원
+42. 박현우 (2015.8) : Attoresearch
+43. 최민영 (2016.2)
+44. 최성하 (2016.2) : KORBIT
+45. 이정훈 (2017.2) : 지티원
+46. 조상원 (2018.2) : 파수닷컴
+47. 박건우 (2019.8) : KORBIT
+48. 양준혁 (2022.8) : 지티원
+49. 모지환 (2023.2) 
 
 #### 산업경영대학원
 1. 김재형 (생산자동화전공, 1998)
@@ -111,6 +104,8 @@ Programming Languages Laboratory (1995-2023)
 - Baljinnyam Baasan-Ochir (2019.3 ~ 2021)
 - 
 #### Undergraduate Interns
+- 엄태호 (2020.11 ~ )
+- 장효석 (2020.11 ~ )
 - 모지환 (2018.3 ~ 2021.2)
 - 박성우 (2017.3 ~2020.2)
 - 이제형 (2015.11~2019.2)
