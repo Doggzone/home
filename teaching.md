@@ -31,7 +31,7 @@ title: Teaching
 
 #### Graduate
 - CSE8045 Principles of Programming Languages : 2007, 2009, 2011, 2014, 2021.
-- CSE9107 프로세스마이닝 (Process Mining) : 2020.
+- CSE9107 프로세스마이닝 (Process Mining) : [2020](https://github.com/Doggzone/cse9107).
 - CSE6035 Principles of Reactive Programming : 2014.
 - CSE879 소프트웨어보안특강 (Special Topics in Software Security) : 2010.
 - CIN870 정형기법 (Logic in Computer Science) : 2002, 2004, 2006, 2008.
