@@ -68,7 +68,12 @@ The facets of action semantics: some principles and applications, IWAS'94, In Pr
 - Joonseon Ahn, Byeong-Mo Chang, Kyung-Goo Doh:
 [A policy description language for context-based access control and adaptation in ubiquitous environment](https://link.springer.com/chapter/10.1007/11807964_66), TRUST'06, *1st International Workshop on Trustworthiness, Reliability and Services in Ubiquitous and Sensor Networks*, Seoul, Korea, Aug 1-4, Proceedings of EUC Workshops: Lecture Notes in Computer Science 4097:650-659, Springer-Verlag, 2006.
 
-- 	Kyung Goo Doh, Seung Cheol Shin: [Detection of information leak by data flow analysis](https://dl.acm.org/citation.cfm?id=597005), *ACM SIGPLAN Notices*, 37(8): 66-71, ACM Press, August, 2002.
+- Kyung Goo Doh, Seung Cheol Shin: Data flow analysis of secure information flow, APLAS'02, In Proceedings of the 3rd *Asian Workshop on Programming Languages and Systems*, Shanghai Jiao Tong University, Shanghai, China, November 29 ~ December 1, 352~365, 2002 
+
+- Kyung Goo Doh, Seung Cheol Shin: [Detection of information leak by data flow analysis](https://dl.acm.org/citation.cfm?id=597005), *ACM SIGPLAN Notices*, 37(8): 66-71, ACM Press, August, 2002.
+
+- Kyung Goo Doh, Seung Cheol Shin: Analysis of secure information flow by model checking (Extended Abstract), Proceedings of the 2nd Asian Workshop on Programming Languages and Systems, KAIST, Daejeon, Korea, December 17-18, 225~236, 2001
+
 
 #### Software Engineering
 - Hyo-Sub Lee, Myung-Ryul Choi, Kyung-Goo Doh:
@@ -129,14 +134,12 @@ Generating A Standard Representation From Pascal Programs, *Technical Report #86
 - Remembrance, DaveFest2013: Dave Schmidt 60th Birthday Celebration Symposium, September 19, 2013 [[pdf]](pdf/20130919DaveFest.pdf)
 - Secure Coding, KAIT International Symposium, Kanagawa Institute of Technology, Shimo-Ogino, Atsugi, Kanagawa, August 27-29, 2013
 - Abstract parsing and its applications, Distinguished Lecture, Department of Computing and Information Sciences, Kansas State University, Nichols Hall Rm#122, Feb 17, 2012
-- Abstract parsing: static analysis of dynamically generated string output using LR-parsing technology,
-Hong Kong University of Science and Technology, Hong Kong, China, Nov 5, 2009.
+- Abstract parsing: static analysis of dynamically generated string output using LR-parsing technology, Hong Kong University of Science and Technology, Hong Kong, China, Nov 5, 2009.
 host: Sunghun Kim
 - Abstract parsing: static analysis of dynamically generated string output using LR-parsing technology, Brown University, Providence, Rhode Island, U.S.A., Sep 10~11, 2009. host: Shriram Krishnamurthi ["Talk announcement"](http://cs.brown.edu/events/talks/doh/)
 - Composing programming languages by combining action semantics modules, BRICS, Aarhus, July 25, 2002. host: Peter D. Mosses
-- Data flow analysis of secure information flow,
-APLAS2002, Shanghai, China, November, 2002
-- Analysis of secure information-flow in action by abstract interpretation, AS2002, Genova, Italy, April, 2002.
+- Data flow analysis of secure information flow, APLAS2002, Shanghai Jiao Tong University, Shanghai, China, December 1, 2002 (with Ki-Hwan Choi and Seung-Cheol Shin)
+- Analysis of secure information-flow in action by abstract interpretation, AS2002, Copenhagen, Denmark, July 21, 2002.
 - Analysis of secure information-flow by model checking, APLAS'01, The 2nd Asian Workshop on Programming Languages and Systems, KAIST, Daejeon, Korea, December 17-18, 2001.
 - Action transformation by partial evaluation, University of Tokyo, Japan, 1994. host: Satoshi Matsuoka
 - Action transformation by partial evaluation,
@@ -181,7 +184,7 @@ host: Christian Quiennec
 
 ### Domestic Publication
 
-#### 논문
+#### 논문지
 
 - 엄태호, 홍성문, 양준혁, 장효석, 도경구, "[code2vec을 이용한 유사도 감정 도구의 성능 개선](http://www.i3.or.kr/html/paper/2021-1/(5)2021-1.pdf)", 한국소프트웨어감정평가학회논문지, 제17권, 제1호, 31~40, 2021년 6월
 - 양준혁, 모지환, 홍성문, 도경구, "[code2vec 모델을 활용한 소스 코드 보안 취약점 탐지](http://www.i3.or.kr/html/paper/2020-2/(5)2020-2.pdf)", 한국소프트웨어감정평가학회논문지, 제16권, 제2호, 45~52, 2020년 12월
@@ -189,10 +192,12 @@ host: Christian Quiennec
 - 홍성문, 김현하, 이제형, 박성우,모지환, 도경구, "공통 토큰에 기반한 서로 다른 언어의 유사성 검사", 한국소프트웨어감정평가학회논문지, 제14권, 제2호, 35~44, 2018년 12월 (우수논문상 수상, 제2019-A01호, 2019년 5월 17일)
 - 최태형, ??, 도경구, "모바일 앱 소스코드 보안약점 자동탐지", 보안공학연구논문지, 제14권, 제2호, 91~102, 2017년 4월
 - 최성하, 도경구, "벨론 레퍼런스 코퍼스를 기준으로 exEyes의 재현율 평가", 한국소프트웨어감정평가학회논문지, 제11권, 제1호, 31~40, 2015년 6월
+- 김현하, 도경구, "요약파싱기법을 사용한 웹 접근성의 정적 분석", 정보과학회논문지 : 소프트웨어 및 응용, 제41권, 제12호, 1099-1109, 2014년 12월
 - 이효섭, 도경구, "CCR: 트리패턴 기반의 코드클론 탐지기", 한국소프트웨어감정평가학회논문지, 제8권, 제2호, 13~28, 2012년 12월
 - 김현하, 김유경, 도경구, "SOA를 위한 모델기반 취약점 분석", 한국소프트웨어감정평가학회논문지, 제8권, 제2호, 45~52, 2012년 12월
 - 이효섭, 도경구, "코드클론 표본 집합체 자동 생성기", 한국소프트웨어감정평가학회논문지, 제7권, 제1호, 29~40, 2011년 6월
 - 김유경, 도경구, 주영도, "서비스 유연성을 높이기 위한 유스케이스 가변성 분석 기반의 SOA 서비스 모델링", 한국소프트웨어감정평가학회논문지, 제6권, 제1호, 49~60, 2010년 5월
+- 권현준, 김유경, 김현하, 도경구, 신승철, 안준선, 이욱세, 이은영, 한환수, "소스코드 보안취약성 자동진단도구 개발 사례", 정보과학회 프로그래밍언어논문지, 제23권 제1호 통권 제42호, 37~45, 2009년 12월 
 - 이지연, 창병모, 안준선, 도경구, "상황 인식 기반의 유비쿼터스 컴퓨팅을 위한 접근제어 시스템", 정보처리학회논문지, 제15-A권, 제1호, 2008년 2월 29일
 - 최태형, 김정준, 도경구, "웹 응용프로그램의 삽입취약점 탐지를 위한 문자열분석", 정보보호학회논문지, 제17권, 제6호, 2007년 12월
 - 이효섭, 도경구, 주영도, "AST를 기반으로 한 프로그램 클론 검출 방법", 한국소프트웨어감정평가학회논문지, 제3권, 제1호, 35~42, 2007년 5월
@@ -203,9 +208,11 @@ host: Christian Quiennec
 - 조순희, 신승철, 도경구, "바이트코드 정보흐름 분석기의 구현", 프로그래밍언어논문지, 제16권, 제3호, 55-62, 2002.10
 - 조영갑, 도경구, 신승철, "SMV를 이용한 정보 흐름 안전성의 모델 검사", 프로그래밍언어논문지, 제15권, 제2호, 39-48, 2001.11
 - 도경구, ["액숀의미표기법을 통한 객체의 이해"](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBCRC7_2000_v7n12_3976), 정보처리논문지, 제7권, 제12호, 3976-3985, 2001.12
-- 도경구, "액숀의미방식에 의한 언어모듈의 정의와 확장",
-정보과학회논문지:소프트웨어 및 응용, 제27권, 제8호, 902-911, 2000.08
-- 강현구, 도경구, "액숀의 온라인 부분계산", 정보과학회논문지(B), 제26권, 제12호, 1531-1541, 1999.12
+- 도경구, "액숀의미방식에 의한 언어모듈의 정의와 확장", 정보과학회논문지 : 소프트웨어 및 응용, 제27권, 제8호, 902-911, 2000년 08월
+- 강현구, 도경구, "액숀의 온라인 부분계산", 정보과학회논문지(B), 제26권, 제12호, 1531-1541, 1999년 12월
+- 강현구, 도경구, "액숀 의미구조를 통한 객체지향 언어의 의미 고찰", 한양대학교 공학기술논문집, 제7권, 제1호, 313-319, 1999년 8월
+- 도경구, 곽노건, 기술해설 : "타입 시스템에 의한 체계적인 복합형 프로그래밍", 정보과학회지 제15권, 제1호, 16-20, 1997년 1월
+- 도경구, "Action 의미론에 의한 함수형 언어 설계", 한양대학교 공학기술논문집, 제5권, 제1호, 175-183, 1996년 8월
 
 #### 특허
 - [등록] 번호 제10-2315750호, "공통 토큰에 기반한 서로 다른 언어의 유사성 검사", 홍성문, 이제형, 박성우, 모지환, 박건우, 도경구, 김현하, 2021년 10월 15일
@@ -265,7 +272,9 @@ host: Christian Quiennec
 - 프로그램 유사성 판정 기술 동향, 프로그램 감정기법 개선 세미나, 한국소프트웨어감정평가학회, 2004.5.21
 - 웹어플리케이션 보안 취약점의 정적 분석, 국가보안기술연구소, 2004.3.7
 - 프로그램 분석 기술을 이용한 정보흐름의 보안, LiComR2003, 송광사, 2003.8.20
-- 프로그램 분석 기술을 이용한 정보흐름의 보안, NETSEC-KR, 인터컨티넨탈호텔, 2003.4.16
+- 프로그램 분석 기술을 이용한 정보흐름의 보안, NETSEC-KR: 제9회 정보통신망 정보보호 워크숍, COEX 컨퍼런스 센터, 2003.4.16
+- 전자지불표준화 로드맵 추진 경과 + 전자회폐 및 교통카드 표준화 로드맵, 전자지불표준화 Road Map 발표회, 전경련회관, 2003.3.13
+
 - 스마트카드, 오피니언 리더를 위한 정보기술 세미나, 아카데미하우스, 2002.11.22
 - Analysis of secure information-flow in action by abstract interpretation,
 정형증명연구워크숍, 동양대, 영주, 2002.8.7-9
@@ -321,13 +330,15 @@ host: Christian Quiennec
 - [한국전자지불포럼] 전자화폐 표준화 동향, 2002.1.1-2002.6.30
 - [아이티플러스(주)] Java Card 기술동향 연구, 2001.6.1-2001.10.31
 - [아이티플러스(주)] 저작권 보호를 위한 전자출판물 파일시스템 개발, 1999.3.1-2000.12.31
+- [산업자원부] 개방형 전자화폐 시스템 및 응용 시스템 개발 (참여), 주관: (주)효성, 1999.12.1~2000.9.30
 - [정보통신부 정보통신우수시범학교지원사업] 통신망을 활용한 다중 로봇 시스템 제어 및 요소기기 개발 (참여), 1999.6.1-2000.5.31
+- [한국IC카드연구조합] IC카드 방식의 개방형 전자화폐 시스템 개발 (참여), 1999.9.1~2004.8.31
 - [펜타시스템테크놀로지(주)] 전자상거래를 위한 지불시스템의 기술 동향 및 요소 기술 분석, 1998.8.11-1999.8.10 (참여)
 - [정보통신부 대학기초 연구과제] Haskell의 부분계산기 설계 및 구현, 1996.7.1-1999.6.30
 - [한양대학교 교내연구비] 액숀 의미구조를 통한 객체지향 언어의 정형적 의미구조 연구, 1998.5.1-1999.4.30
 - [한국과학재단 핵심전문] Action semantics 처리시스템의 설계와 구현, 1997.3.1-1999.2.28
 - [한국정보통신진흥협회] 한국형 전자화폐를 활용한 유통시스템 모델 연구, 1997.7.1-1997.11.30
 - [안산시, 한신기계공업(주)] 공기압축기 운전상태 점검 및 제어용 데이터 관리 시스템 개발, 1996.8.1-1997.7.31
-- [서울이동통신(주)] 인터넷 폰/팩스의 최근 동향 및 추진방향, 1996.10.1-1996.12.31
+- [서울이동통신(주)] 인터넷 팩스/전화의 동향분석 및 추진방안 연구, 1996.10.1-1996.12.31
 - [한양대학교 공학기술연구소] 액숀의미론을 이용한 프로그래밍언어 개발방법론 연구, 1995.10.1-1996.9.30
 - [한양대학교] 프로그래밍언어 개발자를 위한 워크벤치, 1995.9.01-1996.8.31
