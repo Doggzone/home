@@ -167,7 +167,7 @@ host: Christian Quiennec
 - WAS, Amsterdam, Netherland, March 21, 1999
 - ETAPS, Amsterdam, Netherland, March 1999
 - POPL, Paris, France, January 1997
-- Partial Evaluation, Dagstuhl Castle, Germany, February 1996
+- Partial Evaluation, Dagstuhl Castle, Germany, February 12~16, 1996
 - PEPM, La Jolla, California, U.S.A., June 1995
 - TACS, Sendai, Japan, April 1994
 - ESOP/CAAP, Edinburgh, Scotland, April 1994
@@ -298,7 +298,7 @@ host: Christian Quiennec
 세부과제: 소프트웨어 소스 특질 자동 추출 기술 개발 (책임), 2008.09.01-2014.02.28(6년), 288,500,000원 (40+50+70+60+8.5+60)
 - [KISA 위탁과제] SW 및 모바일 앱 보안약점 진단규칙 개선, 2012.10~12, 40,000,000원
 - [지티원(주)] COIL언어의 자료흐름분석 고도화 (책임), 2011.07.01-2012.02.29, 50,000,000원
-- [중소기업청 기업부설연구소 지원사업] 웹응용소프트웨어 보안취약성 정밀진단 기술 개발 (책임), 2010.06.01-2012.05.31(2년), 100,025,000원 (총 400,100,000원)
+- [중소기업청 기업부설연구소 지원사업] 웹응용소프트웨어 보안취약성 정밀진단 기술 개발 (책임), 2010.06.01-2012.05.31(2년), 400,100,000원
 - [KISA 행정안전부 정보시스템 보안성강화체계 구축 사업] 소프트웨어 취약성 점검도구 및 보안성강화지원시스템 개발,
   + 제1차: 2009.09.30-2009.12.31 (지티원, 파수닷컴, 정보보호학회 소프트웨어보안연구회)
   + 제2차: 2010.07.01-2010.12.31 (수행기관: 지티원, 파수닷컴)
