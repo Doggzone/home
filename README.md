@@ -13,7 +13,6 @@
   - [강의 동영상, 학습 자료, 정오표](https://doggzone.github.io/pppython/)
 
 ### Contact Points
-- Office: ERICA컨벤션센터 614호
 - Email: softopian0 at gmail dot com, doh at hanyang dot ac dot kr
 - Address(Korean): 경기도 안산시 상록구 한양대학로 55 ERICA컨벤션센터 614호 (우편번호: 15588)
 - Address(English): ERICA Convention Center #614, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, 15588, Gyeonggi-do, Republic of Korea
