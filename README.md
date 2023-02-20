@@ -13,7 +13,7 @@
   - [강의 동영상, 학습 자료, 정오표](https://doggzone.github.io/pppython/)
 
 ### Contact Points
-- Office: 제4공학관 #320 (phone: +82-31-400-5667)
-- Email: doh at hanyang.ac.kr
-- Address(Korean): 경기도 안산시 상록구 한양대학로 55 소프트웨어융합대학 소프트웨어학부(우편번호: 15588)
-- Address(English): College of Computing, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, 15588, Gyeonggi-do, Republic of Korea
+- Office: ERICA컨벤션센터 614호
+- Email: softopian0 at gmail dot com, doh at hanyang dot ac dot kr
+- Address(Korean): 경기도 안산시 상록구 한양대학로 55 ERICA컨벤션센터 614호 (우편번호: 15588)
+- Address(English): ERICA Convention Center #614, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, 15588, Gyeonggi-do, Republic of Korea
