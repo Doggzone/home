@@ -7,9 +7,9 @@
 
 ### Hot!
 
-- [신간] 도경구, 프로그래밍의 정석 - 파이썬, [생능출판사](https://www.booksr.co.kr/), 2020
-- [학습 자료, 강의 동영상, 정오표](https://doggzone.github.io/pppython/)
-- [강의 동영상 (메타코드M)](https://youtu.be/ns61Ol2OIuo)
+- [책] 도경구, 프로그래밍의 정석 - 파이썬, [생능출판사](https://www.booksr.co.kr/), 2020
+  - [학습 자료, 강의 동영상, 정오표](https://doggzone.github.io/pppython/)
+  - [강의 동영상 (메타코드M)](https://youtu.be/ns61Ol2OIuo)
 
 ### 주소
 - doh at hanyang dot ac dot kr
