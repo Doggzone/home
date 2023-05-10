@@ -102,7 +102,7 @@ title: Lab
 #### Lab Memebrs
 - Norhafizah Binti Nizar (2013.9 ~ 2021)
 - Baljinnyam Baasan-Ochir (2019.3 ~ 2021)
-- 
+
 #### Undergraduate Interns
 - 엄태호 (2020.11 ~ )
 - 장효석 (2020.11 ~ )
