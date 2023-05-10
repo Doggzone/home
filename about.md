@@ -10,6 +10,8 @@ title: About
 - B.E. in Industrial Engineering, Hanyang University, 1980.
 
 ### Career
+
+- Professor Emeritus, School of Computer Science, College of Computing, Hanyang University ERICA, 2023.3 ~ present
 - CEO, Softopia Inc., 2013.10.18 ~ present
 - Professor, Associate Professor, Assistant Professor, School of Computer Science, College of Computing, Hanyang University ERICA, 1995.9 ~ 2023.2
 - Head, Programming Languages Laboratory (a.k.a. PLASSE Research Laboratory), Hanyang University ERICA, 1995.9 ~ 2023.2
