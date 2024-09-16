@@ -32,7 +32,7 @@ title: About
 
 ### Media
 
-- (기고) [산업 현장 목소리 담는 대학 SW교육 혁신](http://www.etnews.com/20181224000176), 전자신문, 2018년 12월 25일. ([종이](https://drive.google.com/file/d/1TygTuVWru2ra_jl4H67f6AHLiE6kqD8a/view?usp=sharing))
+- (기고) [산업 현장 목소리 담는 대학 SW교육 혁신](http://www.etnews.com/20181224000176), 전자신문, 2018년 12월 25일. ([종이](doc/etnews20181226.jpg)) ([한양뉴스](http://www.newshyu.com/news/articleView.html?idxno=452343))
 - (사랑한대 활동) [2019학년도 수시 학생부 종합II전형 면접고사 학부모 의전](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hanyangiphak&logNo=221411105584), 2018년 12월 2일.
 - (기사) [ERICA, SW중심대학 산학협력협의회 개최](http://www.newshyu.com/news/articleView.html?idxno=366543), NewsH, 2018년 8월 23일. ([한국대학신문 기사](http://news.unn.net/news/articleView.html?idxno=193637))
 - (기사) [Research of ERICA - Special Interview: 소프트웨어가 지배할 세상, 미래의 리더를 키워라](http://hyerica.com/?p=2758), HY ERICA, Summer 2018, Vol.88, 34~37쪽
