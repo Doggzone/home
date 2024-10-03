@@ -4,7 +4,6 @@
 
 - 한양대학교 ERICA 소프트웨어융합대학 컴퓨터학부 명예교수 (Professor Emeritus, School of Computer Science, College of Computing, Hanyang University ERICA)
 - 소프토피아(주) 대표 (CEO, Softopia)
-- 한국저작권위원회 소프트웨어감정전문위원
 
 ### 늬우스
 
