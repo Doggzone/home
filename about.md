@@ -5,8 +5,8 @@ title: About
 
 ### 학위
 [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=81015)
-- 전산학박사 (Kansas State University 1992) \\ - Action Semantics-Directed Prototyping (지도교수 [David A. Schmidt](http://people.cs.ksu.edu/~schmidt/))
-- 전산학석사 (Iowa State University 1987) \\ - Generating a Standard Representation from Pascal Programs (지도교수 [James Bieman](http://www.cs.colostate.edu/~bieman/))
+- 전산학박사 (Kansas State University 1992) : Action Semantics-Directed Prototyping (지도교수 [David A. Schmidt](http://people.cs.ksu.edu/~schmidt/))
+- 전산학석사 (Iowa State University 1987) : Generating a Standard Representation from Pascal Programs (지도교수 [James Bieman](http://www.cs.colostate.edu/~bieman/))
 - 산업공학사 (한양대학교 공과대학 1980)
 
 ### 경력
