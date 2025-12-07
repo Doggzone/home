@@ -151,18 +151,18 @@ host: Christian Quiennec
 
 ### Travels
 - ICEEECS, Okinawa, Japan, January 9-11, 2017
-- SAS 2013
-- [DaveFest2013: Dave Schmidt 60th Birthday Celebration Symposium](https://sites.google.com/site/daveschmidtfest2013/), September 19~20, 2013
-- Kansas State University, host: Professor David Schmidt, February 8-18, 2012
+- SAS 2013, Seattle, Washington, U.S.A., 2013
+- [DaveFest2013: Dave Schmidt 60th Birthday Celebration Symposium](https://sites.google.com/site/daveschmidtfest2013/), Manhattan, Kansas, U.S.A., September 19~20, 2013
+- Kansas State University, host: Professor David Schmidt, Manhattan, Kansas, U.S.A., February 8-18, 2012
 - ROSAEC 7th Workshop, Hong Kong University of Science and Technology, January 16~17, 2012
-- Festschrift in Honor of Carilyn Talcott, Menlo Park, California, Nov. 3, 2011
+- Festschrift in Honor of Carilyn Talcott, Menlo Park, California, U.S.A., Nov. 3, 2011
 - MMSEC 2009: Princeton, New Jersey, U.S.A., Sep 7~8, 2009
 - POPL, Nice, France, January 17~19, 2007
 - VMCAI, Nice, France, January 14~16, 2007
 - APLAS, Sydney, Australia, November 8~10, 2006
 - SAS, Seoul, Korea, August 29~31, 2006
-- [Summer School on Reliable Computing](http://www.cs.uoregon.edu/research/summerschool/summer05/), University of Oregon, Eugene, Oregon, July 20-29, 2005
-- [Summer School on Software Security: Theory to Practice](https://www.cs.uoregon.edu/research/summerschool/summer04/), University of Oregon, Eugene, Oregon, June 17-25, 2004
+- [Summer School on Reliable Computing](http://www.cs.uoregon.edu/research/summerschool/summer05/), University of Oregon, Eugene, Oregon, U.S.A., July 20-29, 2005
+- [Summer School on Software Security: Theory to Practice](https://www.cs.uoregon.edu/research/summerschool/summer04/), University of Oregon, Eugene, Oregon, U.S.A., June 17-25, 2004
 - APLAS, Beijing, China, 2003
 - APLAS, Shanghai, China, 2002
 - APLAS, Daejeon, Korea, 2001
