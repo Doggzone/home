@@ -3,26 +3,26 @@ layout: page
 title: About
 ---
 
-### Degree
+### 학위
 [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=81015)
-- Ph.D. in Computer Science, Kansas State University, 1992. Dissertation: Action Semantics-Directed Prototyping (supervised by [David A. Schmidt](http://people.cs.ksu.edu/~schmidt/))
-- M.S. in Computer Science, Iowa State University, 1987. Thesis: Generating a Standard Representation from Pascal Programs (supervised by [James Bieman](http://www.cs.colostate.edu/~bieman/))
-- B.E. in Industrial Engineering, Hanyang University, 1980.
+- 1992 전산학박사 Kansas State University - 논문: Action Semantics-Directed Prototyping (지도교수 [David A. Schmidt](http://people.cs.ksu.edu/~schmidt/))
+- 1987 전산학석사 Iowa State University - 논문: Generating a Standard Representation from Pascal Programs (지도교수 [James Bieman](http://www.cs.colostate.edu/~bieman/))
+- 1980 한양대학교 공과대학 산업공학사 (76학번)
 
-### Career
+### 경력
 
-- Professor Emeritus, School of Computer Science, College of Computing, Hanyang University ERICA, 2023.3 ~ present
-- CEO, Softopia Inc., 2013.10.18 ~ present
-- Professor, Associate Professor, Assistant Professor, School of Computer Science, College of Computing, Hanyang University ERICA, 1995.9 ~ 2023.2
-- Head, Programming Languages Laboratory (a.k.a. PLASSE Research Laboratory), Hanyang University ERICA, 1995.9 ~ 2023.2
-- Dean, College of Computing, Hanyang University ERICA, 2016.9 ~ 2018.12
-- Director, SMaSH (Software Maven School at Hanyang), 2012.7 ~ 2016.2
-- Visiting Scholar, Department of Computer Science, University of California Davis, U.S.A., host: Professor Zhendong Su, 2005.3 ~ 2006.2
-- CEO, Smart Card Laboratory, 2000.9 ~ 2001.12
-- Assistant Professor, [University of Aizu](https://www.u-aizu.ac.jp/en/), Japan, 1993.4 ~ 1995.8
-- Teaching & Research Assistant, Kansas State University, U.S.A., 1987.1 ~ 1992.12
-- Master's degree student in Industrial Engineering, Hanyang University, 1982.9 ~ 1984.2
-- Artillery Officer (ROTC 18), Republic of Korea Army, 1980.3 ~ 1982.6
+- 2023.3 ~ : 한양대학교 ERICA 소프트웨어융합대학 컴퓨터학부 명예교수
+- 2013.10.18 ~ : 소프토피아(주) 대표
+- 1995.9 ~ 2023.2 : 한양대학교 ERICA 소프트웨어융합대학 컴퓨터학부 교수 
+- 1995.9 ~ 2023.2 : 한양대학교 ERICA 프로그래밍언어(PLASSE)연구실 지도교수
+- 2016.9 ~ 2018.12 : 한양대학교 ERICA 소프트웨어융합대학 초대학장 
+- 2012.7 ~ 2016.2 : 소프트웨어특성화대학 SMaSH (Software Maven School at Hanyang) 총괄책임교수 
+- 2005.3 ~ 2006.2 : 미국 University of California Davis 방문교수 (Zhendong Su 교수 초청)
+- 2000.9 ~ 2001.12 : 스마트카드연구소(주) 대표
+- 1993.4 ~ 1995.8 : 일본 会津大学[University of Aizu](https://www.u-aizu.ac.jp/en/) 조교수
+- 1987.1 ~ 1992.12 : 미국 Kansas State University 강의조교+연구조교 
+- 1982.9 ~ 1984.2 : 한양대학교 대학원 산업공학과 석사과정 수료 (지도교수: 윤덕균)
+- 1980.3 ~ 1982.6 : 대한민국 육군 포병 장교 (ROTC 18기)
 
 ### Award
 - 도경구, 문화체육관광부 장관 표창, 제2021-390호, [2021 국제저작권기술 콘퍼런스(ICOTEC)](http://www.discoverynews.kr/news/articleView.html?idxno=675853), 2021.11.3
