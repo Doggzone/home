@@ -6,7 +6,7 @@ title: About
 ### 학위
 [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=81015)
 - Ph.D. in Computer Science (Kansas State University 1992) : Action Semantics-Directed Prototyping (supervisor: [David A. Schmidt](http://people.cs.ksu.edu/~schmidt/))
-- M.S. in Computer Science (Iowa State University 1987) : Generating a Standard Representation from Pascal Programs (supervisor: [James Bieman](http://www.cs.colostate.edu/~bieman/))
+- M.S. in Computer Science (Iowa State University 1987) : [Generating a Standard Representation from Pascal Programs](doc/MSthesis.pdf) (supervisor: [James Bieman](http://www.cs.colostate.edu/~bieman/))
 - B.S. in Industrial Engineering (Hanyang University 한양대학교 공과대학 1980)
 
 ### 경력
